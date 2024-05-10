@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Static Badge](https://img.shields.io/badge/CS109-ongoing-blue)
+
+A Chinese student likes music and computer.
+
+![Grada's GitHub stats](https://github-readme-stats.vercel.app/api?username=pentaoa&theme=swift)
+
 <!--
 **pentaoa/pentaoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
