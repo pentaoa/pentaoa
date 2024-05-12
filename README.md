@@ -2,9 +2,22 @@
 
 ![Static Badge](https://img.shields.io/badge/CS109-ongoing-blue)
 
-A Chinese student likes music and computer.
+I am a Chinese student. I like music and computer.
 
-![Grada's GitHub stats](https://github-readme-stats.vercel.app/api?username=pentaoa&theme=swift)
+<div align="center">
+  
+  <!-- Quotes 名人名言 -->
+  <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+
+  <div>&nbsp;</div>
+
+  ![Grada's GitHub stats](https://github-readme-stats.vercel.app/api?username=pentaoa&theme=swift)
+
+  <div>&nbsp;</div>
+
+  ![Visitor Count](https://profile-counter.glitch.me/pentaoa/count.svg)
+
+</div>
 
 <!--
 **pentaoa/pentaoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
