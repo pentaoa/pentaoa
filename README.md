@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/CS109-ongoing-blue)
+![Static Badge](https://img.shields.io/badge/CS109-finished-green) ![Static Badge](https://img.shields.io/badge/EE205-ongoing-blue) 
 
 I am a Chinese student. I like music and computer.
 
@@ -12,10 +12,6 @@ I am a Chinese student. I like music and computer.
   <div>&nbsp;</div>
 
   ![Grada's GitHub stats](https://github-readme-stats.vercel.app/api?username=pentaoa&theme=swift)
-
-  <div>&nbsp;</div>
-
-  ![Visitor Count](https://profile-counter.glitch.me/pentaoa/count.svg)
 
 </div>
 
