@@ -4,13 +4,6 @@
 
 I am a Chinese student. I like music and computer.
 
-<div align="center">
-  
-  <!-- Quotes 名人名言 -->
-  <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-  
-</div>
-
 <!--
 **pentaoa/pentaoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
