@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/CS109-finished-green) ![Static Badge](https://img.shields.io/badge/EE205-ongoing-blue) 
+![Static Badge](https://img.shields.io/badge/CS109-finished-green) ![Static Badge](https://img.shields.io/badge/EE205-finished-green) 
 
 I am a Chinese student. I like music and computer.
 
