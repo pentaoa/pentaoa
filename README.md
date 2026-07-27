@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/CS109-finished-green) ![Static Badge](https://img.shields.io/badge/EE205-finished-green) ![Static Badge](https://img.shields.io/badge/CS207-ongoing-blue) ![Static Badge](https://img.shields.io/badge/CS203B-ongoing-blue) 
+![Static Badge](https://img.shields.io/badge/CS109-finished-green) ![Static Badge](https://img.shields.io/badge/EE205-finished-green) ![Static Badge](https://img.shields.io/badge/CS207-finished-green) ![Static Badge](https://img.shields.io/badge/CS203B-finished-green) 
 
-I am a Chinese student. I like music and computer.
+I am a Chinese student. I like music, computer and Minecraft.
+
+![Home Page, CV...](https://www.kunpeng.blog/en)
 
 <!--
 **pentaoa/pentaoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
