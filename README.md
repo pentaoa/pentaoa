@@ -4,7 +4,7 @@
 
 I am a Chinese student. I like music, computer and Minecraft.
 
-![Home Page, CV...](https://www.kunpeng.blog/en)
+[https://www.kunpeng.blog/en]
 
 <!--
 **pentaoa/pentaoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
