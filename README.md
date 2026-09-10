@@ -1,14 +1,14 @@
-<h2 align="center">Kunpeng Xie · 谢鲲鹏</h2>
+<h2 align="center">Kunpeng Xie</h2>
 
 <p align="center">
-  Multimodal learning · Generative AI · NeuroAI<br>
+  Multimodal learning · Generative AI<br>
   <sub>SUSTech / NCCLab</sub>
 </p>
 
 <p align="center">
   <a href="https://kunpeng.blog/en">Website</a> &nbsp;·&nbsp;
   <a href="https://scholar.google.com/citations?user=gzf1ng4AAAAJ">Scholar</a> &nbsp;·&nbsp;
-  <a href="mailto:12310102@mail.sustech.edu.cn">Email</a>
+  <a href="mailto:kunpnx@gmail.com">Email</a>
 </p>
 
 <br>
