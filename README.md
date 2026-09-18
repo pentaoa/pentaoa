@@ -1,7 +1,7 @@
 <h2 align="center">Kunpeng Xie</h2>
 
 <p align="center">
-  Multimodal learning · Generative AI<br>
+  Multimodal learning<br>
   <sub>SUSTech / NCCLab</sub>
 </p>
 
