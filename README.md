@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kunpeng.blog/en">Website</a> &nbsp;·&nbsp;
+  <a href="https://uhaku.cn/en">Website</a> &nbsp;·&nbsp;
   <a href="https://scholar.google.com/citations?user=gzf1ng4AAAAJ">Scholar</a> &nbsp;·&nbsp;
   <a href="mailto:kunpnx@gmail.com">Email</a>
 </p>
