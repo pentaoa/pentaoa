@@ -2,7 +2,6 @@
 
 <p align="center">
   Multimodal learning<br>
-  <sub>SUSTech / NCCLab</sub>
 </p>
 
 <p align="center">
