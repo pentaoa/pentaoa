@@ -22,5 +22,3 @@
     </picture>
   </a>
 </p>
-
-<p align="center"><sub>Music, Minecraft, and a little curiosity.</sub></p>
